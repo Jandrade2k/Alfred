@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Chesseburguer",
+      "description": "Pão, hamburguer, queijo e alface.",
+      "price": 12.90,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/Cheeseburger.png"
+    },
+    {
+      "id": 2,
+      "name": "Batata Frita",
+      "description": "Porção de batata frita individual.",
+      "price": 10.00,
+      "image": "https://cdn.panelinha.com.br/receita/953607600000-Batata-frita-tradicional.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Churros",
+      "description": "Churros de doce de leite.",
+      "price": 6.50,
+      "image": "https://itssugartime.files.wordpress.com/2014/11/churros-recheados-de-doce-de-leite.jpeg?w=640"
+    },
+    {
+      "id": 4,
+      "name": "Pizza",
+      "description": "Melhor comida de todas <3.",
+      "price": 50.00,
+      "image": "https://coolicias.ao/wp-content/uploads/2019/11/Receita-de-Pizza-de-Pepperoni-na-Fritadeira-El%C3%A9trica-1200x900.jpg"
+    }
+  ],
+  "cart": []
+}
